@@ -1,8 +1,8 @@
 # MoARR: Multi-Objective Neural Architecture Search Based on Diverse Structures and Adaptive Recommendation
 
-Multi-Objective Neural Architecture Search Based on Diverse Structures and Adaptive Recommendation
-Chunnan Wang, Hongzhi Wang, Guocheng Feng, Fei Geng
-https://arxiv.org/abs/2007.02749
+Multi-Objective Neural Architecture Search Based on Diverse Structures and Adaptive Recommendation.
+Chunnan Wang, Hongzhi Wang, Guocheng Feng, Fei Geng.
+https://arxiv.org/abs/2007.02749.
 
 # Requirements
 
