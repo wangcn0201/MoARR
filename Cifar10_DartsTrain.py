@@ -111,7 +111,7 @@ def main():
         logging.info('valid_acc %f', valid_acc)
         scheduler.step()
 
-        utils.save(model, os.path.join(args.save, '_weights.pt'))
+        utils.save(model, os.path.join(args.save, 'weights.pt'))
 
 
 def train(train_queue, model, criterion, optimizer):
